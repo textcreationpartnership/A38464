@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English manner of swearing vindicated, or, The judgment of an eminent nonconformist minister of London concerning these four questions viz., q. I. Is it lawful in swearing to lay the hand upon the Bible? q. II. Is it lawful to kiss it in swearing? q. III. May one that scrupleth thus swearing himself, yet commissioned, give an oath thus to another that scrupleth it not? q. IV. How far is swearing by creatures a sin? : wherein several objections about the foresaid questions are answered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38464</idno>
+            <idno type="STC">Wing E3098</idno>
+            <idno type="STC">ESTC R26129</idno>
+            <idno type="EEBO-CITATION">09362684</idno>
+            <idno type="OCLC">ocm 09362684</idno>
+            <idno type="VID">42851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English manner of swearing vindicated, or, The judgment of an eminent nonconformist minister of London concerning these four questions viz., q. I. Is it lawful in swearing to lay the hand upon the Bible? q. II. Is it lawful to kiss it in swearing? q. III. May one that scrupleth thus swearing himself, yet commissioned, give an oath thus to another that scrupleth it not? q. IV. How far is swearing by creatures a sin? : wherein several objections about the foresaid questions are answered.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Moses Pitt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>l687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published for the satisfaction of the conscientious."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42851:1"/>
+            <pb facs="tcp:42851:1"/>
+            <p>THE <hi>ENGLISH</hi> Manner of <hi>SWEARING</hi> VINDICATED Or the <hi>J<g ref="char:V">Ʋ</g>DGMENT</hi> of an Eminent Nonconformiſt MINISTER of LONDON, concerning theſe FOUR QUESTIONS <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <hi>Q. I.</hi> Is it Lawful in Swearing to <hi>lay the Hand upon the</hi> BIBLE?</item>
+                  <item>
+                     <hi>Q. II.</hi> Is it Lawful to <hi>Kiſs it</hi> in Swearing?</item>
+                  <item>
+                     <hi>Q III.</hi> May one that ſcrupleth thus Swearing himſelf, yet <hi>Com<g ref="char:EOLhyphen"/>miſſioned,</hi> give an Oath thus to <hi>another</hi> that ſcrupleth it not<g ref="char:punc">▪</g>
+                  </item>
+                  <item>
+                     <hi>Q. IV.</hi> How far is Swearing by Creatures a Sin?</item>
+               </list>
+            </p>
+            <p>Wherein ſeveral OBJECIONS about the foreſaid <hi>Q<g ref="char:V">Ʋ</g>ESIONS</hi> are <hi>Anſwered.</hi>
+            </p>
+            <p>Publiſhed for the Satisfaction of the Conſcientious.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>R. W.</hi> for <hi>Moſes Pitt,</hi> at the <hi>Angel</hi> in St. Pauls Church-yard. <hi>MDCLXXXVII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42851:2"/>
+            <pb facs="tcp:42851:2"/>
+            <head>OBJECTIONS <hi>againſt the</hi> Engliſh <hi>maner of</hi> Swearing ANSWERED.</head>
+            <p>IN the Title-page, the Lawfulneſs of <hi>Laying the hand on,</hi> and <hi>Kiſſing</hi> the Book are made <hi>two ſeveral</hi> Queſtions, which may here be comprehended in <hi>one,</hi> to both which <hi>one Anſwer</hi> may be Sufficient.</p>
+            <p>Queſt. 1. Is <hi>it lawful to lay the hand on the Bible and kiſs<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it in</hi> Swearing?</p>
+            <p>
+               <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſw.</hi> It is not Unlawful.</p>
+            <p>
+               <hi>Proved 1ſt.</hi> That which is not <hi>forbidden</hi> by God, is <hi>lawful</hi> (before God) But <hi>ſo</hi> to take an Oath is not forbidden by God—Therefore, <hi>&amp;c.</hi> The minor will be proved ſufficiently by Diſproving all the pretenſes of a Prohibition. The major needeth no Proof.</p>
+            <p n="2">2. If it be for bidden it is either, 1. As an Act in Worſhip <hi>not commanded,</hi> and ſo <hi>Will</hi> worſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, 2. Or as a <hi>ſignificant Ceremony</hi> in worſhip not commanded, 3. Or as an uncommanded ſignificant Ceremony, which hath in it ſelf ſome forbidden <hi>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or <hi>manner:</hi> But it is <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forbidden</hi> in <hi>any</hi> of theſe reſpects, therefore <hi>not at all.</hi>
+            </p>
+            <p n="1">I. Not as an Act <hi>not commanded</hi> in worſhip: Then all Acts in worſhip not commanded would be unlawful, which is falſe; For, 1. The Acts uſed in ſwear<g ref="char:EOLhyphen"/>ing, <hi>Gen.</hi> 24.2. &amp; 14.22. <hi>Rev.</hi> 10.5 were not <hi>commanded</hi> and yet lawful: of which more anon 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God hath not commanded what Tune to ſing a Pſalm in, what Diviſion to make of the Bible into Chapters &amp; Verſes, whether to uſe a written or a printed Bible, what words, what method, what particular Text to chooſe, what Tranſlation to uſe, with many ſuch like.</p>
+            <p n="2">II. Not as a <hi>ſignificant Ceremony</hi> not Commanded: For then all ſuch ſhould be forbidden which is not true. For 1. <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raham</hi>'s Swearing by lifting up the hand (and ſo the Angels <hi>Rev.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.5.) and <hi>Abraham</hi>'s ſervant by putting his hand under the thigh were ſignifi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt Ceremonies: And he that will ſay they were <hi>commanded</hi> muſt prove it: The contrary may well by us be ſuppoſed, 1. Be<g ref="char:EOLhyphen"/>cauſe no ſuch Law is notified in Scripture, and here <hi>non apparere</hi> and <hi>non eſſe</hi> are equal, becauſe of the perfection of Gods Laws. 1. Becauſe it is mentioned, as <hi>Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeus</hi> &amp; other Commenta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors note, as ſome accuſtomed Rite, and ſo depends, not on any particular Precept to <hi>Abraha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> alone as a Prophet. 3. Becauſe it is not one but <hi>ſeveral</hi> ſorts of Swearing Rites that are mentioned, <hi>Lifting up</hi> the hand, and putting it <hi>under the Thigh.</hi>
+            </p>
+            <p n="2">2. Almoſt all Chriſtians do take ſome uncommanded ſignificant Ceremon<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="2" facs="tcp:42851:3"/>Swearing to be lawful. The Ceremony mentioned by <hi>Paraeus ibid.</hi> as uſed in the Palatinate is ſuch, of <hi>lifting up three fingers.</hi> The Engliſh Annotations tell you that the cuſtoms of countreys are very various in this point, yet moſt agree in adding ſome outward atteſtation of Action or geſture to words in taking of an Oath to make it better remembred and more regarded than bare words of Af<g ref="char:EOLhyphen"/>firmation, Promiſe or imprecation. And <hi>Joſephus</hi> (cited by <hi>Grotius</hi>) tells us 'twas then the cuſtom among the Jews to ſwear by this Ceremony of <hi>putting the hand under the thigh.</hi>
+            </p>
+            <p n="3">3. An Action of another part of the body is no more forbidden to expreſs the mind by, than of the tongue: God never ſaid, you ſhall no way expreſs your minds in things Sacred or civil, but by the Tougue: a change of the <hi>coun<g ref="char:EOLhyphen"/>tenance</hi> may expreſs it: a frown or a pleaſant look <hi>(Index animi vultus.) Paul</hi> did <hi>lift up the hand</hi> to the Jews when he would ſpeak for himſelf: Chriſt made as if he would have gone further, <hi>Luc.</hi> 24. Words are not <hi>natural</hi> ſigns, but <hi>in<g ref="char:EOLhyphen"/>vented</hi> &amp; <hi>arbitrary</hi> in particulars, tho' the <hi>Power</hi> of ſpeaking words ſo <hi>invented</hi> &amp; <hi>learned</hi> be natural. If it be lawful to uſe ſignificant <hi>word<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> not commanded in Worſhip, it is lawful to uſe ſignificant <hi>Actions</hi> (under due regulation) There<g ref="char:EOLhyphen"/>fore all the ancient Churches, without one Contradicter that ever I read of, did uſe many ſuch. To <hi>ſtand up</hi> at the Creed is a ſignificant expreſſion of Conſent, which not only all the Churches elſe, but the old <hi>Non-conformiſts</hi> never ſcrupled, nor do the <hi>preſent</hi> as far as I can learn: Whether to <hi>ſit, ſtand or kneel,</hi> at ſing<g ref="char:EOLhyphen"/>ing Pſalms, is left at liberty. To put of the hat, is a ſignificant Ceremony or act in worſhp, not commanded in it ſelf, nor uſed of old for the ſame ſignifica<g ref="char:EOLhyphen"/>tion as now: and where <hi>covering</hi> the head does ſignify <hi>reverence,</hi> it is better than to be bare. God hath commanded us the <hi>expreſſing</hi> of conſent, reverence, <hi>&amp;c.</hi> but left the word, geſture or expreſſing <hi>ſign</hi> to liberty He that affirmeth that God has left no other ſignification of our minds in ſacred things to our liberty, but tyed us to <hi>Words</hi> alone, muſt prove what he ſaith (which he muſt do a<g ref="char:EOLhyphen"/>gainſt <hi>Scripture,</hi> againſt Nature, and againſt all the judgement and cuſtom of all Chriſt's Churches and of the world.)</p>
+            <p n="3">III. If <hi>laying the hand on the Book,</hi> and <hi>Kiſſing it</hi> be unlawful for any ſpeci<g ref="char:EOLhyphen"/>al matter or manner forbidden more than other ſignificant acts, it is for ſome of theſe Reaſons in the Objections following; which now I will anſwer.</p>
+            <p n="1">I. Object. <hi>It ſavoureth of the Romiſh Superſtition.</hi> Anſw. 1. <hi>Not at all:</hi> Let him prove it that <hi>can.</hi> 2. Superſtition is the feigning of things to be pleaſing or diſpleaſing to GOD which are not, and uſing or diſuſing them accordingly: whatever be the Etymologie of the word (<hi>Superſtitutum Cultus,</hi> or <hi>ſupra Statu<g ref="char:EOLhyphen"/>tum,</hi> &amp;c.) it is certain that the common uſe of it among Heathens &amp; Chriſti<g ref="char:EOLhyphen"/>ans was for an erroneous undue fear of God, thinking this or that was <hi>diſpleaſ<g ref="char:EOLhyphen"/>ing</hi> or <hi>pleaſing</hi> to Him to be done or to be avoided which was not ſo, but was the
+<pb n="3" facs="tcp:42851:3"/>conceit of a frightned miſtaking mind. Therefore to ſay that God is diſpleaſed with this ſignification of the mind, when it is not ſo, nor can be proved, is Su<g ref="char:EOLhyphen"/>perſtition. And this is not the only inſtance of Satan's introducing Superſtition under pretenſe of <hi>avoiding</hi> Superſtition.</p>
+            <p n="3">3. The Senſe of the Law is to be judged of <hi>by</hi> the Law, and by the notorious Doctrine &amp; profeſſion of the Law-<hi>makers</hi> and of the Land; which here <hi>renounceth</hi> the <hi>ſuperſtitious</hi> uſe of it. But I confeſs I was more afraid that the Papiſts had too much derogated <hi>from</hi> the Scripture, than given too much <hi>to</hi> it: and they profeſs they ſwear not by a Creature. as <hi>Paraeus in Gen.</hi> 24.2.</p>
+            <p n="2">II. Object. <hi>But Paraeus,</hi> in Gen. 24.2. ſaith, <hi>Non abſque ſuperſtitione fit cum ſuper Crucifixum aut Codicem Evangelii digitis impoſitis juratur, ut fit in Papatu. Anſw.</hi> 1. But that ſame act which <hi>in Papatu</hi> is ſuperſtitious, becauſe of ſuper<g ref="char:EOLhyphen"/>ſtitious <hi>conceits</hi> &amp; <hi>ends,</hi> is not ſo in all others which have none ſuch. 2. It<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o new thing to be quick in accuſing our adverſaries; but <hi>Paraeus</hi> addeth not a <hi>ſyllable</hi> of Proof; and if he <hi>had,</hi> it muſt have been ſuch as touch't not us, or elſe invalid.</p>
+            <p>Object. III. <hi>Some</hi> good <hi>men have ſcrupled it. Anſw.</hi> Ten thouſand to one <hi>ſuch</hi> have <hi>not</hi> ſcrupled it. 2. They are not our <hi>Gods</hi> nor <hi>Law.</hi> And if we a<g ref="char:EOLhyphen"/>void all as ſin which ſome good men have ſcrupled, we ſhall make Superſtition a great part of our Religion: And when, on the ſame grounds, we have but practiſed all as duty which ſome good men have taken for duty, we ſhall quite out-go the Papiſts.</p>
+            <p>Object. IV. <hi>Our Common-Law Commiſſions, that give authority to examine per<g ref="char:EOLhyphen"/>ſons, direct it to be done</hi> ſupra Sacramenta ſua per ſancta Dei evangelia fideliter praeſtanda: <hi>And in the form of Adminiſtration in Eccleſiaſtical Courts the words are</hi> Ad ſancta Dei Evangelii rite &amp; legitime jurati: <hi>Whether theſe Forms do not infer that in their firſt uſe, (at leaſt) perſons either ſwore by the</hi> Evangeliſts <hi>or of<g ref="char:EOLhyphen"/>fended in the mode of ſwearing: And our Common Law calls it a</hi> Corporal <hi>Oath, from</hi> touching <hi>the Book.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1 To know the <hi>ſenſe</hi> of our preſent Law, it is not neceſſary that we know the ſenſe of the <hi>firſt uſers</hi> of the Form: For the Law is not now the King's Law tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt <hi>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de</hi> it, but the Kings Law that now <hi>reigneth,</hi> and beareth <hi>his</hi> ſenſe. 2. To ju<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fie our obedience to a Law, it is not neceſſary that we prove every Phraſe in that Law to be fitly expreſſed. 3. But examine it well, and try whe<g ref="char:EOLhyphen"/>ther it be not alſo ſit and laudable.</p>
+            <p n="1">1. There are three things conjoined in the Oaths in queſtion. 1. A <hi>teſtimony Aſſertory</hi> or a <hi>promiſe,</hi> 2. An <hi>Oath,</hi> 3. An <hi>Imprecation.</hi> The <hi>Aſſertory</hi> Teſtimony is here the <hi>firſt thing intended;</hi> and the <hi>Oath</hi> and <hi>Imprecation</hi> are but as a means to make that Teſtimony or promiſe <hi>valid.</hi> 2. The publiſhed Doctrine of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the 39 Articles, the Book of <hi>Ordination, &amp;c.</hi> is that the Holy Scriptures
+<pb n="4" facs="tcp:42851:4"/>contain all things neceſſary to Salvation, as being God's Law or Rule of our <hi>Faith</hi> and <hi>Life.</hi> All our Duty to God is there commanded: All the <hi>Promiſes</hi> on which we hope are there contained; all the Puniſhments which the <hi>perjur'd</hi> or any ſinner muſt <hi>feel</hi> and ſhould <hi>fear,</hi> are there threatned. Therefore, 3. The <hi>Laying on the Hand</hi> and <hi>Kiſſing</hi> the Book, is an <hi>Action</hi> directly related to the <hi>Im<g ref="char:EOLhyphen"/>precation,</hi> and <hi>not</hi> to the <hi>Oath,</hi> but only by conſequence, as the Imprecation is ſubſervient to the Oath, as the Oath is to the Aſſertion. So that this is the plain Paraphraſe of the whole, [<hi>I do believe that God the Ruler of all the world, is the Judge of ſecrets which are above mans Judgement, the Searcher of hearts, and the hater &amp; avenger of <hi>Perjury,</hi> according to <hi>this</hi> His holy <hi>Word</hi> by which He go<g ref="char:EOLhyphen"/>verns us: And to this God I appeal as to the Truth of this my T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtimony, conſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning my ſelf to loſe all the benefit of his promiſes to the juſt, and to bear all the puniſhments</hi> here <hi>threatned to the Perjured, if I lie.</hi>]</p>
+            <p>And what can be ſaid more fitly, 1. To own the Proteſtant Doctrine that the Scripture is God's perfect Word: that the evil to be feared, and the good to be hoped for, is all there contained, and is all the fu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling of that Word? 2 And to put the <hi>word</hi> in its due ſubordination to GOD? And our ordinary Form of Swearing ſheweth this [<hi>So help you God,</hi> and <hi>the Contents of this Book.</hi>] Whether you will call this, <hi>Swearing upon or by the Goſpel,</hi> or call it <hi>a Corporal</hi> Oath, or a <hi>Spiritual Oath;</hi> is only <hi>de nomine,</hi> and is nothing to the <hi>matter</hi> thus truly deſcribed. <hi>Sacramentum</hi> ſignifieth the Oath it ſelf, and <hi>Ad ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncta Evan<g ref="char:EOLhyphen"/>gelia</hi> is a fit Phraſe: or if <hi>ſupra Sacramenta</hi> ſignifie the two Sacraments of the Goſpel, it can mean no more than [<hi>As one that by the Reception of the</hi> Sacrament <hi>doth profeſs to believe this Goſpel to be true, I do renounce the B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nefits of it, If I lie:</hi>] And in this ſenſe it has been ſome mens cuſtom to receive the Sacrament when they would ſolemnly Swear.</p>
+            <p>Object: V. <hi>Some ſeem to object againſt</hi> Kiſſing <hi>the Book, as having the greater ap<g ref="char:EOLhyphen"/>pearance of giving too much to it, or putting ſome adoration on it; and becauſe this Ceremony of kiſſing is held to be of later date than laying on the hand.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Ceremony ſignifieth that I love &amp; approve the Goſpel, and place the hope of my ſalvation in it. And the publick Doctrine of the Kingdom, before cited, ſheweth as a full Expoſition what we aſcribe to it. But as ſome ſcrupulous Brethren in <hi>Scotland</hi> gratify the Papiſts by rejecting the Oath of Su<g ref="char:EOLhyphen"/>premacy, which is the moſt thorny hedge againſt them, and this while they cry out againſt <hi>Popery;</hi> ſo others would gratify the Papiſts, by <hi>ſugg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſting</hi> that we give too much to the Bible, and adore it; when the very ſum of <hi>Englands</hi> Pro<g ref="char:EOLhyphen"/>teſtantiſm, is their juſt aſcribing to the Holy Scriptures its Sufficiency as to all things neceſſary to Salvation. Thus Satan undoeth ſtill by <hi>over</hi>-doing.</p>
+            <p>Object. VI. <hi>But Laying on the hand, and kiſſing the Book, ſeem of the ſame na<g ref="char:EOLhyphen"/>ture with the Croſs in Baptiſm, &amp; other ſignific<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>remonies; and an Oath is part of
+<pb n="5" facs="tcp:42851:4"/>the Worſhip of God; therefore not to be taken with theſe ceremonies, or elſe will ſeem to juſtifie the other.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Significant Words, Geſtures or Actions are not therefore evil, be<g ref="char:EOLhyphen"/>cauſe they are <hi>ſignificant,</hi> (unleſs bruitiſhneſs be a vertue) nor becauſe any call them by the name of <hi>Ceremonies</hi> (elſe that name might be put upon any thing to deprive us of our liberty). Therefore I can judge of no Ceremony by that general name alone, till it be named it ſelf <hi>in ſpecie.</hi> 2. And of the <hi>Croſs,</hi> there are theſe notorious differences in the caſe: 1. The Croſs is an <hi>Image</hi> uſed in Gods Worſhip: though not a permanent, yet a <hi>tranſient</hi> Image, and uſed <hi>as</hi> an Image of the Croſs of Chriſt, though but in water or oyl. And God hath more ſpecially forbidden images uſed in His Worſhip, than He hath done a profeſſing ſignificant <hi>word, geſture</hi> or <hi>action,</hi> which is no image, nor uſed as ſuch. 2. The Croſs ſeems to be a third <hi>Sacrament</hi> of the Covenant of Grace, while it is uſed as a Symbol of Chriſtianity, and a <hi>dedicating ſign,</hi> (as the Cannon-calleth it) by which before the Church, there is made a ſolemn <hi>ſelf-Obligation</hi> as <hi>ſacramentally,</hi> to <hi>Renounce the Devil, the world &amp; the fleſh, and manfully to fight under Chriſts ban<g ref="char:EOLhyphen"/>ner,</hi> &amp;c. Implying our <hi>truſt</hi> and <hi>hope</hi> in Chriſt crucified for the benefits of His death. So that if it be not a compleat third Sacrament, it hath ſo much of that which is proper to a Sacrament, that for my part, I dare not uſe it. And as I think the King would not take it well, when he has made the <hi>Star</hi> the Badge of the <hi>Knights of the Garter,</hi> if any Subject ſhould preſume to make another <hi>Sym<g ref="char:EOLhyphen"/>bolum Ordinis</hi> (though yet many a ſignificant Geſture or Act may be uſed with<g ref="char:EOLhyphen"/>out offence); So I fear Chriſt would not take it well of me if I preſume to <hi>make</hi> or <hi>uſe</hi> another Symbol or <hi>Teſſera</hi> of Chriſtianity. But what's this to <hi>things</hi> or <hi>Geſtures</hi> ſignificant of no ſuch kind? You ſee then the difference of theſe Caſes.</p>
+            <p>But if the Croſs could be proved as harmleſs as the Swearing Ceremony, I would be for the Croſs, and not againſt the laying the hand on the Book and Kiſſing it: For 1. I am not of their mind that form their judgement of other particulars to ſuit with their pre-conceived opinions of things of the ſame rank or quality; nor make the intereſt of my former conceptions, to be the meaſure of my after judging. 2. Nor do I think it ſo great an honour to be ſtrict in my opinions, as dishonour to be <hi>ſuperſtitious,</hi> and to <hi>add to God's Law,</hi> by ſaying that [He forbiddeth what He doth not, or to be affectedly ſingular in denying lawful things, with a <hi>Touch not, taſt not, handle not,</hi> &amp;c. Nor do I eſteem him to be the wiſeſt, beſt, or holieſt perſon who is narroweſt or ſtricteſt in his Opi<g ref="char:EOLhyphen"/>nions, but who is <hi>righteſt;</hi> nor him that <hi>maketh moſt</hi> things to be ſins, but him that <hi>committeth leaſt</hi> ſin, which is ſuch indeed; nor him that maketh moſt Laws to himſelf and others, but him that beſt obeyeth <hi>God's</hi> Laws.</p>
+            <p>Queſt. 3. <hi>May one that ſcrupleth thus ſwearing himſelf, yet Commiſſiond, give an Oath thus to another that ſcrupleth it not?</hi>
+            </p>
+            <pb n="6" facs="tcp:42851:5"/>
+            <p> 
+               <hi>Anſw.</hi> If the thing be (as is proved) lawful, his ſcruple will not make him innocent in neglecting the duty of his place. 2. If the Subſtance of the Oath were <hi>lawful,</hi> and only the <hi>Mode</hi> or <hi>Ceremony</hi> were ſinful (as ſuſpected), then 1. If the Commiſſioner muſt himſelf <hi>particularly command that mode,</hi> it were un<g ref="char:EOLhyphen"/>lawful for him to do it. 2. But if he only <hi>command,</hi> and give the Oath as an <hi>Oath,</hi> leaving the <hi>Mode</hi> without his Approbation or Command, to the Taker &amp; the Law, he may ſo give the Oath. And Thus Chriſtians in all ages have taken it for Lawful to make Covenants even with <hi>Infid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Idolaters,</hi> and to take a <hi>Turks</hi> Oath by <hi>Mahomet,</hi> when it is only the <hi>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> that <hi>we</hi> demand, and the <hi>Mode</hi> is his <hi>own,</hi> which we had rather be without, and give no Approbation of. And if a King may thus demand an Infidel's or an Idolater's Oath, (as God Himſelf doth mens duty, when He knows they will ſin in doing it) much more may one do ſo, in caſe of a doubtful <hi>Ceremony,</hi> which he is neither the Author nor approver of. But I think this in queſtion is lawful, fit, and laudable.</p>
+            <p>Queſt. 4. <hi>How far is ſwearing by Creatures a ſin?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is juſt like the caſe of <hi>Worſhipping Images</hi> or <hi>by Images:</hi> He that worſhippeth an <hi>Image</hi> or <hi>any Creature as God,</hi> and <hi>ultimately terminateth</hi> his wor<g ref="char:EOLhyphen"/>ſhip in it, doth commit <hi>direct</hi> and <hi>full Idolatry;</hi> which is ſo much the <hi>greater</hi> ſin, by how much the <hi>baſer</hi> the thing is which he <hi>idolizeth.</hi> But if he maketh the <hi>Image</hi> or <hi>Creature</hi> but his <hi>medium</hi> of that Worſhip which ſhould be <hi>immedi<g ref="char:EOLhyphen"/>ately</hi> offered to God, in whom it is <hi>ultimately terminated,</hi> then it is not <hi>groſs Ido<g ref="char:EOLhyphen"/>latry,</hi> but it is <hi>falſe</hi> and <hi>forbidden worſhip</hi> of the <hi>true GOD:</hi> but if the Crea<g ref="char:EOLhyphen"/>ture be made but the <hi>Medium</hi> of <hi>that Worſhip</hi> which God would have offered Him <hi>by a Medium,</hi> then it is lawful ſo to uſe or worſhip it: (As to honour and admire God as appearing in His <hi>Works;</hi> to give that Worſhip, or Honour to our <hi>Parents</hi> or <hi>Rulers</hi> as His <hi>Officers,</hi> which is ultimately <hi>terminated</hi> in God: juſt ſo it is in the caſe of <hi>Swearing:</hi> for <hi>Swearing</hi> is a part of the <hi>Worſhip</hi> of God. He that ſweareth by any Creature as a God, or as the avenger of thoſe that by falſhood elude the Judgement of <hi>man,</hi> doth commit Idolatry in it: as <hi>Julian</hi> did when he ſwore by the <hi>Sun,</hi> (which he praiſed in his Orations, and worſhiped, as God). But he that only ſweareth ſo by a <hi>Creature,</hi> as to <hi>intend God ultimately,</hi> as the <hi>witneſs</hi> &amp; <hi>avenger,</hi> but yet <hi>ſo</hi> as that the <hi>creature only</hi> is named, or <hi>ſo named</hi> as hath an <hi>appearance</hi> of Idolatry, or tends to entice the mind from God doth ſwear by the <hi>true God intentionally,</hi> but in a <hi>ſinful manner.</hi> But he that <hi>dir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctly</hi> ſweareth by God (upon a juſt call), and <hi>by the creature</hi> (or <hi>nameth</hi> the creature rather) but in a juſt and clear and inoffenſive <hi>ſubordination</hi> to God, is excuſable. So we uſe to lay our hands on the <hi>Bible,</hi> and thus to ſwear, <hi>So help me God, and the Contents of this Book.</hi> Thus on great occaſions many good men in their <hi>Wri<g ref="char:EOLhyphen"/>tings</hi> to clear themſelves from ſome <hi>calumny</hi> have ſaid, <hi>I call God, and angels, and men to witneſs.</hi> Many in naming <hi>creatures</hi> intend rather a <hi>Curſe</hi> than a <hi>Swearing by</hi> the creature: as [<hi>if it be not ſo, let God deſtroy me by this</hi> Fire, <hi>or this</hi> Water, <hi>&amp;c.</hi>]</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42851:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
